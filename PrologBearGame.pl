@@ -1,4 +1,4 @@
-/*Integrantes: Ricardo Peñalosa Velasquez
+/*Integrantes: Ricardo Peñaloza Velasquez
 			   Marcos Carrillos Builes
 			   Nicolás Cardona Buelvas*/
 			   
